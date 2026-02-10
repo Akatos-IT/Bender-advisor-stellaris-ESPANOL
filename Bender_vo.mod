@@ -5,4 +5,4 @@ tags={
 }
 picture="bender.png"
 supported_version="v4.*"
-path="C:/Users/Bruno/Documents/Paradox Interactive/Stellaris/mod/bender_vo"
+path="mod/bender_vo"
