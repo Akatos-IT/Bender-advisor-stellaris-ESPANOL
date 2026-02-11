@@ -10,4 +10,4 @@ Listo para usar, se copia en la carpeta de mod de stellaris, ubicación:
 *(Si no existe la carpeta llamada "mod", creala.)*
 
 # Actualizaciones pendientes
-*Voy a añadir otra versión en la que los audios son más cortos y solo dan el aviso, con la misma voz de Bender, lo pondre dentro del mismo repositorio, en una rama distinta. 10/02/2026 (Todavía no disponible)*
+*Voy a añadir otra versión en la que los audios son más cortos y solo dan el aviso, con la misma voz de Bender, lo pondre dentro del mismo repositorio, en una rama distinta. 11/02/2026 (Todavía no disponible)*
