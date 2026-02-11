@@ -3,7 +3,7 @@ La voz de asesor de Bender, Futurama. Con algunas frases características pero m
 
 Listo para usar, se copia en la carpeta de mod de stellaris, ubicación:
 
-C:\Users\[TuNombreDeUsuario]\Documents\Paradox Interactive\Stellaris\mod
+  C:\Users\[TuNombreDeUsuario]\Documents\Paradox Interactive\Stellaris\mod
 
 (Si no existe la carpeta llamada "mod", creala.)
 
